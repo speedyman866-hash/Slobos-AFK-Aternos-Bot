@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "S3-stickwar.aternos.me:36646",
+    "port": 36646,
     "version": "",
     "try-creative": false
   },
